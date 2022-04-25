@@ -1,0 +1,22 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "ColemanTO",
+  "last_updated": "2022-04-25T23:01:39.413Z",
+  "entities": [
+    {
+      "id": "45dc151d-8ab4-4660-8f6f-ead088e439ea",
+      "class": "component",
+      "type": "page",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "renditions": [],
+      "name": "Button",
+      "tags": [],
+      "last_updated": "2022-04-25T23:05:45.708Z",
+      "last_updated_by": "ColemanTO"
+    }
+  ]
+}
