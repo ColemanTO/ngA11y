@@ -16,8 +16,10 @@
       "type": "page",
       "id": "896275e5-c890-45b7-8a23-d225e0df8d68",
       "name": "Principles",
-      "description": "Edit this with the pencil icon. \n\n[Markdown](https://commonmark.org/help/) is supported to help you create great documentation for your design system.",
-      "tags": []
+      "description": "Accessible Components for Angular Development with Bootsrap",
+      "tags": [],
+      "last_updated": "2022-04-25T23:11:08.852Z",
+      "last_updated_by": "ColemanTO"
     }
   ]
 }
