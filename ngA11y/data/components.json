@@ -9,13 +9,15 @@
       "type": "page",
       "related_entity_ids": [],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "nga-button",
+        "languages": {
+          "html": "<input type=\"button\" label=\"Button\">Button</>"
+        }
       },
       "renditions": [],
       "name": "Button",
       "tags": [],
-      "last_updated": "2022-04-25T23:05:45.708Z",
+      "last_updated": "2022-04-25T23:30:37.070Z",
       "last_updated_by": "ColemanTO"
     }
   ]
