@@ -14,10 +14,12 @@
           "html": "<input class=\"favorite styled\"\n       type=\"button\"\n       value=\"Add to favorites\" />"
         }
       },
-      "renditions": [],
+      "renditions": [
+        "Button-Default.png"
+      ],
       "name": "Button",
       "tags": [],
-      "last_updated": "2022-04-25T23:38:47.831Z",
+      "last_updated": "2022-04-25T23:51:12.865Z",
       "last_updated_by": "ColemanTO"
     }
   ]
