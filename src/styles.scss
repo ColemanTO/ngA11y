@@ -1,5 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 
-@import url(../src/themes/dark.scss);
+@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
+
+// @import url(../src/themes/dark.scss);
 
 @import url(../src/themes/_style-params.scss);
