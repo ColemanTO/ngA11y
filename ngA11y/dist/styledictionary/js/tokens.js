@@ -3,6 +3,4 @@
  * Generated on Tue, 26 Apr 2022 22:44:34 GMT
  */
 
-:root {
-  --warning-red: #FF0000; /* Warning Red */
-}
+export const WarningRed = "#FF0000"; // Warning Red
