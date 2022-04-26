@@ -6,7 +6,7 @@
     "name": "ngA11y",
     "package_version": "0.0.1",
     "build_tool": "StyleDictionary",
-    "snippet_trigger_prefix": "xd_",
+    "snippet_trigger_prefix": "nga_",
     "build_status_label": "dev",
     "build_params": "./config.js",
     "languages": [
@@ -81,7 +81,7 @@
       },
       {
         "label": "JavaScript",
-        "export_tokens": false,
+        "export_tokens": true,
         "snippet_id": "javascript",
         "syntax": "text/javascript",
         "ext-com_adobe_xd-styledictionary_id": "js"
@@ -149,7 +149,7 @@
       },
       {
         "label": "SCSS",
-        "export_tokens": false,
+        "export_tokens": true,
         "snippet_id": "scss",
         "syntax": "text/x-sass",
         "ext-com_adobe_xd-styledictionary_id": "scss"
